@@ -12,7 +12,7 @@ For the most part this v0.2 is not heavily modded.  There is a nevermore filter 
 
 [Picobilical PCB Mount with cable restraint](https://www.printables.com/model/1068141-ldo-v02-picobilical-umbilical-pcb-mount-remix)
 
-[Picobilical PCB Mount with cable restraint](https://www.printables.com/model/500513-voron-v0-tiny-recirculating-carbon-filter-mfnano-r)
+[Nano Nevermore](https://www.printables.com/model/500513-voron-v0-tiny-recirculating-carbon-filter-mfnano-r)
 
 ### High Level BOM 
 
