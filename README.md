@@ -3,7 +3,14 @@ This is the repo for backing up my configs for Klipper Voron V0.2
 
 ## About the TinyRed Build
 
-TinyRed is a Voron V0.2.  It's a hybrid printer in the sense that it started out as a kit, but then had most parts replaced with 'upgrades'. So not a kit, but not a complete self source either.  Here is the list of parts: 
+TinyRed is a Voron V0.2.  It's a hybrid printer in the sense that it started out as a kit, but then had most parts replaced with 'upgrades'. So not a kit, but not a complete self source either.  You could find find a listing of high level parts and sourcing notes under the "High Level BOM" section below.  
+
+![Picture of TinyRed](images/IMG_2201.heic)
+
+### Mods
+For the most part this v0.2 is not heavily modded.  There is a nevermore filter add on.  I also created my own PCB mount, as I did not like the cable restraint on the existing mounts.  You could find links to any of the mods for this printer here: 
+[Picobilical PCB Mount with cable restraint](https://www.printables.com/model/1068141-ldo-v02-picobilical-umbilical-pcb-mount-remix)
+[Picobilical PCB Mount with cable restraint](https://www.printables.com/model/500513-voron-v0-tiny-recirculating-carbon-filter-mfnano-r)
 
 ### High Level BOM 
 
