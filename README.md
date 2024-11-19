@@ -14,6 +14,14 @@ For the most part this v0.2 is not heavily modded.  There is a nevermore filter 
 
 [Nano Nevermore](https://www.printables.com/model/500513-voron-v0-tiny-recirculating-carbon-filter-mfnano-r)
 
+[CNC parts](https://www.siboor.com/product/siboor-voron-0-2-aug2023-updated-version-metal-structural-part/)
+
+[Mini-Fridge Door](https://github.com/TheVoronModder/MiniFridge)
+
+[Aux Parts Fan](https://www.siboor.com/product/voron-0-2-12032-parts-fan/)
+
+[Waveshare 2.8 inch DSI Screen](https://www.waveshare.com/2.8inch-dsi-lcd.htm)
+
 ### High Level BOM 
 
 | Part    | Brand  | Info  | Sourced From  | Notes  |
