@@ -50,7 +50,8 @@ For the most part this v0.2 is not heavily modded.  There is a nevermore filter 
 | Electronics | - | Matchstick RGB lights | Amazon | - |
 | Electronics | LDO | 2pin JST splitter | Amazon | For modded nevermore filter for easy disconnect. |
 | Frame | - | Rubber feet | Amazon | - |
-| Motion | Moons | Z, X and Y steppers | Formbot | TODO: add in the model numbers |
+| Motion | Moons | X and Y steppers | Formbot | MS14HS5P4150-11 |
+| Motion | Moons | Z, stepper | Formbot | LE174S-T0808-200-0-S-065 |
 | Electronics | Biqu | BTT Pico | Formbot | - |
 | Motion | - | Z cable chain | Formbot | - |
 | Motion | - | PTFE tubing | Formbot | - |
